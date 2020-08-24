@@ -1,7 +1,7 @@
 # Hi there, I'm Thong Le - aka [SirThong][website] 👋
 
-[![Website](https://img.shields.io/website?label=sirdev.codes&style=for-the-badge&url=http%3A%2F%2Fsirdev.codes)](https://sirdev.codes)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=sirdev.codes&style=for-the-badge&url=http%3A%2F%2Fsirdev.codes)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Thong Le | 💻 Back-end developer | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -46,7 +46,12 @@ Talk to me about
 
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ### Github Stats
 
 <p align="center" >
