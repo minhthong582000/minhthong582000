@@ -49,8 +49,8 @@ Talk to me about
 <br />
 <br />
 <br />
-<br />
-<br />
+
+---
 
 ### Github Stats
 
