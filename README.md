@@ -20,16 +20,12 @@ Talk to me about
 -   Creating scalable cloud architecture using **AWS Cloud**
 -   Solving Data structure and algorithm questions in **Java**
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="sirdev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="minhthong582000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
----
 
 ### Languages and Tools:
 
@@ -51,8 +47,6 @@ Talk to me about
 <br />
 <br />
 
----
-
 ### Github Stats
 
 <p align="center" >
@@ -60,8 +54,6 @@ Talk to me about
     <img  src="https://github-readme-stats.vercel.app/api?username=minhthong582000&&show_icons=true"/>
   </a>
 </p>
-
----
 
 [website]: http://sirdev.codes
 [github]: https://github.com/minhthong582000
