@@ -50,8 +50,7 @@ Talk to me about
 <br />
 <br />
 <br />
-<br />
-<br />
+
 ### Github Stats
 
 <p align="center" >
@@ -61,5 +60,6 @@ Talk to me about
 </p>
 
 [website]: http://sirdev.codes
+[twitter]: https://twitter.com/LeMinhThong19
 [github]: https://github.com/minhthong582000
 [linkedin]: https://linkedin.com/in/minhthong582000
