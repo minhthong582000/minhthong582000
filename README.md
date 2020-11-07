@@ -65,4 +65,4 @@ Talk to me about
 [website]: http://sirdev.codes
 [twitter]: https://twitter.com/LeMinhThong19
 [github]: https://github.com/minhthong582000
-[linkedin]: https://linkedin.com/in/minhthong582000
+[linkedin]: https://www.linkedin.com/in/le-minh-thong-4617a41b5/
