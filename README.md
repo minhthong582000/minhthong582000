@@ -8,6 +8,10 @@
 </div>
 
 <div align="center">
+HAPPY NEW YEAR!
+</div>
+
+<div align="center">
 🌱 I’m currently learning everything 🤣
 </div>
 
