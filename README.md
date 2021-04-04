@@ -24,7 +24,7 @@ Talk to me about
 -   Backend development using **Nodejs,Golang**
 -   Making for **Relational Database Management Systems**
 -   Creating scalable cloud architecture using **AWS Cloud**
--   Solving Data structure and algorithm questions in **Java**
+-   Solving Data structure and algorithm questions in **Python**
 
 ### Connect with me:
 
@@ -49,6 +49,7 @@ Talk to me about
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="golang" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][github]
 [<img align="left" alt="java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
+[<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 
 <br />
 <br />
