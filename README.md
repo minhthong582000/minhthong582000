@@ -1,6 +1,6 @@
 # Hi there, I'm Thong Le - aka [SirThong][website] 👋
 
-[![Website](https://img.shields.io/website?label=sirdev.codes&style=for-the-badge&url=http%3A%2F%2Fsirdev.codes)][website]
+[![Website](https://img.shields.io/website?label=sircodes.xyz&style=for-the-badge&url=http%3A%2F%2Fsircodes.xyz)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 <div align="center">
@@ -67,7 +67,7 @@ Talk to me about
   </a>
 </p>
 
-[website]: http://sirdev.codes
+[website]: https://sircodes.xyz
 [twitter]: https://twitter.com/LeMinhThong19
 [github]: https://github.com/minhthong582000
 [linkedin]: https://www.linkedin.com/in/le-minh-thong-4617a41b5/
