@@ -4,11 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Back-end developer | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-
-<div align="center">
-🌱 I’m currently learning everything 🤣
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Back-end/System | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ---
