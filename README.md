@@ -13,6 +13,7 @@
 
 Talk to me about
 
+-   Cloud Computing and Distributed System
 -   Backend development using **Nodejs,Golang**
 -   Making for **Relational Database Management Systems**
 -   Creating scalable cloud architecture using **AWS Cloud**
