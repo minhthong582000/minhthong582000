@@ -1,10 +1,9 @@
-# Hi there, I'm Thong Le - aka [SirThong][website] 👋
+# [SirThong][website] 👋
 
-[![Website](https://img.shields.io/website?label=sircodes.xyz&style=for-the-badge&url=http%3A%2F%2Fsircodes.xyz)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Back-end/System/DevOps | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Back-end/DevOps/Cloud/SRE | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ---
@@ -13,13 +12,12 @@
 
 Talk to me about
 
--   Cloud Computing and Distributed System
--   Backend development using **Nodejs,Golang**
--   Making for **Relational Database Management Systems**
--   Creating scalable cloud architecture using **AWS Cloud**
--   Solving Data structure and algorithm questions in **Python**
-
-
+-   Cloud Computing and Distributed System.
+-   Backend development using **Nodejs,Golang**.
+-   Making for **Relational Database Management Systems**.
+-   Creating scalable cloud architecture using **AWS Cloud**.
+-   Solving Data structure and algorithm questions in **Python**.
+-   Observability
 
 ### Connect with me:
 
