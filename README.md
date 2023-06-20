@@ -1,21 +1,6 @@
-# [SirThong][website] 👋
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Back-end/DevOps/Cloud/SRE | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
----
-
-## Technologies
-
-Talk to me about
-
--   Cloud Computing and Distributed System.
--   Backend development using **Nodejs,Golang**.
--   Making for **Relational Database Management Systems**.
--   Creating scalable cloud architecture using **AWS Cloud**.
--   Solving Data structure and algorithm questions in **Python**.
--   Observability
 
 ### Connect with me:
 
@@ -35,7 +20,6 @@ Talk to me about
   </a>
 </p>
 
-[website]: https://sircodes.xyz
 [twitter]: https://twitter.com/LeMinhThong19
 [github]: https://github.com/minhthong582000
 [linkedin]: https://www.linkedin.com/in/le-minh-thong-4617a41b5/
