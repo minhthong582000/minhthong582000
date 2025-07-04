@@ -24,5 +24,5 @@
 </p>
 
 [github]: https://github.com/minhthong582000
-[linkedin]: https://www.linkedin.com/in/minhthong582000/
+[linkedin]: https://www.linkedin.com/in/minhthong582
 [gitlab]: https://gitlab.com/minhthong582000
