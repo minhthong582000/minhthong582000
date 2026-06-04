@@ -3,26 +3,16 @@
 <h4>Ho Chi Minh City, Vietnam</h4>
 </div>
 
+Obsessed with automating, from infrastructure to software development processes to help others focus on their work and be more productive. My focus at the moment is reliability, performance, security, and cost optimization...
+
 ---
 
-
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="minhthong582000 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="minhthong582000 | Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />][gitlab]
 
 <br />
 
----
+### Projects
 
-### Github Stats
-
-<p align="left" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=minhthong582000&&show_icons=true"/>
-  </a>
-</p>
-
-[github]: https://github.com/minhthong582000
-[linkedin]: https://www.linkedin.com/in/minhthong582
-[gitlab]: https://gitlab.com/minhthong582000
+Some of my projects and open-source contributions can be found below 👇
