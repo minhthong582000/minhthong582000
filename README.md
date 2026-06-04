@@ -1,6 +1,6 @@
 ### Hi, I'm Minh Thong 👋
 
-Obsessed with automating, from infrastructure to software development processes to help others focus on their work and be more productive. My focus at the moment is reliability, performance, security, and cost optimization...
+Obsessed with automating, from infrastructure to software development processes to help others focus on their work and be more productive. My focus at the moment is infrastructure reliability, performance, security, and cost optimization.
 
 ### Connect with me
 
