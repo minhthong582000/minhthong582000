@@ -4,7 +4,7 @@ Obsessed with automating, from infrastructure to software development processes 
 
 ### Connect with me
 
-<img align="left" alt="minhthong582000 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[<img align="left" alt="minhthong582000 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minhthong582/)
 
 <br/>
 
