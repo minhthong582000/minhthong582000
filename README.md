@@ -10,4 +10,4 @@ Obsessed with automation, from infrastructure to software development processes,
 
 ### Projects
 
-Some of my projects and open-source contributions can be found below 👇
+Some of my projects and open-source contributions ([kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox), [mercari/tortoise](https://github.com/mercari/tortoise), [gravitational/teleport](https://github.com/gravitational/teleport), [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller), [argoproj/argo-helm](https://github.com/argoproj/argo-helm), [apache/airflow](https://github.com/apache/airflow)...) can be found below 👇
